@@ -1,4 +1,4 @@
-# Livesplit Split Analyzer by KoraTwenty
+# Livesplit File Analyzer by KoraTwenty
 
 ## General Use
 
