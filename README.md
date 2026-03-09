@@ -15,9 +15,9 @@ Input the name of your livesplit file followed by `.lss`. Ex: `PitOf100Trials.ls
 ### Prompt 1:
 `c`, `chrono` & `chronological`: Will list off times in chronological order of when they occured.
 
-`r` & `rank`: Will list off times in order of quickest to slowest.
+`r` & `rank`: Will list off times in order of fastest to slowest.
 
-`p`, `prob`, `probability`, `s`, `stat`, `stats` & `statistics`: Will list off times along with the percentile of the run, listed in time from quickest to slowest.
+`p`, `prob`, `probability`, `s`, `stat`, `stats` & `statistics`: Will list off times along with the percentile of the run, in order of fastest to slowest.
 
 `names`: Will list all of the split names. (Doesn't give Prompt 2)
 
