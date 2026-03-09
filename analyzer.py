@@ -22,4 +22,5 @@ for run in root.findall('AttemptHistory/Attempt'):
         })
 
 for run in all_final_times:
+
     print(f"{run['date']}, {run['time']}")
