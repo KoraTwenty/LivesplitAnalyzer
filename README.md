@@ -6,7 +6,7 @@
 
 Place the Python file in the same folder as your `.lss` file is in. This is the sole requirement for this to work. Upon starting the program it should state the directory at the top of the console.
 
-**IMPORTANT! Please ensure you have scipy installed or this will not work! This can be done by running `pip install scipy` inside the command prompt!**
+**IMPORTANT! Please ensure you have scipy installed or this will not work! This can be done by running `pip install scipy` inside `cmd.exe`.**
 
 Note: You have to reopen the file every time you want to run it again, I will be solving this in later commits.
 
