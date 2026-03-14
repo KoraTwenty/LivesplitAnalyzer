@@ -23,7 +23,7 @@ Input the name of your livesplit file followed by `.lss`. Ex: `PitOf100Trials.ls
 
 `names`: Will list all of the split names. (Doesn't give Prompt 2)
 
-## Prompt 2:
+### Prompt 2:
 `*`, `all` & `run`: Searches over the entire run.
 
 `[Split Name]`: Searches specifically that split.
